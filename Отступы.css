@@ -1,0 +1,134 @@
+<style>
+
+div#Картинка1{
+
+position: relative;
+
+}
+.Картинка {
+
+position: absolute;
+
+top: 150px;
+
+left: 31%;
+
+text-transform: uppercase;
+
+color: white;
+
+width: 300px;
+
+padding: 10px;
+
+text-align: center;
+
+}
+
+.Down{
+	position: absolute;
+
+	top: 316px;
+
+	left: 39%;
+
+	text-transform: uppercase;
+
+	color: yellow;
+
+	width: 300px;
+
+	padding: 10px;
+
+	text-align: center;
+}
+.Sl{
+	position: absolute;
+
+	top: 345px;
+
+	left: 39%;
+
+	text-transform: uppercase;
+
+	color: black;
+
+	width: 300px;
+
+	padding: 10px;
+
+	text-align: center;
+
+	font-weight: bolder;
+}
+.O{
+	position: absolute;
+
+	top: 310px;
+
+	left: 513px;
+
+	text-transform: uppercase;
+
+	width: 300px;
+
+	padding: 10px;
+
+	text-align: center;
+}
+
+.Pres{
+	margin-top: 50px;
+	margin-left: 300px;
+}
+table {
+   width: 100%;
+}
+table {
+   width: 600px;
+}
+.Konec{
+	position: static;
+}
+.fortnite{
+	position: absolute;
+
+	top: 2950px;
+
+	left: 80px;
+
+	text-transform: uppercase;
+
+	color: gray;
+
+	width: 300px;
+
+	padding: 10px;
+
+	font-weight: bolder;
+}
+.Lama{
+	position: absolute;
+
+	top: 2950px;
+
+	left: 900px;
+
+	text-transform: uppercase;
+
+	width: 300px;
+
+	padding: 10px;
+
+	text-align: center;
+}
+.back{
+	position: absolute;
+	width: 140px;
+	height: 130px;
+	left: 20px;
+   outline: 2px solid #000;
+   border: 3px solid #fff;
+}
+
+</style>
